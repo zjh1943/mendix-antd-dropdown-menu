@@ -1,6 +1,6 @@
-![GitHub all releases](https://img.shields.io/github/downloads/wiwengweng/mendix-antd-dropdown-menu/total?style=social)
+![GitHub all releases](https://img.shields.io/github/downloads/zjh1943/mendix-antd-dropdown-menu/total?style=social)
 
-[English](https://github.com/wiwengweng/mendix-antd-dropdown-menu/blob/main/README.md)
+[English](https://github.com/zjh1943/mendix-antd-dropdown-menu/blob/main/README.md)
 ## 介绍
 
 基于Ant Design实现的 Mendix Widget小组件。组件实现了 Ant Design(antd) 中的 [`dropdown`](https://ant.design/components/dropdown-cn) 的绝大部分接口。你可以去[这里](https://ant.design/components/dropdown-cn)查看原始的 antd 组件的各种特性。
@@ -17,7 +17,7 @@
 ## 快速安装和使用
 
 1. 将该组件添加到 Mendix Project 中.
-    1. 从[这里](https://github.com/wiwengweng/mendix-antd-dropdown-menu/releases)下载最新版本的 mpk 文件.
+    1. 从[这里](https://github.com/zjh1943/mendix-antd-dropdown-menu/releases)下载最新版本的 mpk 文件.
     3. 把 mpk 文件复制到你的 Mendix Project 目录 `{YourMendixProjectFolder}/widgets/`.
     4. 用 Mendix Studio Pro 打开你的 Mendix Project，然后点击菜单 `Menu > App > Synchronize App Directory`.
 2. 使用 `Antd Dropdown Menu`。
@@ -86,7 +86,7 @@ System properties
 
 ![](./resources/feature_supported.png)
 ## Issues, suggestions and feature requests
-[Github Issue](https://github.com/wiwengweng/mendix-antd-dropdown-menu/issues)
+[Github Issue](https://github.com/zjh1943/mendix-antd-dropdown-menu/issues)
 
 同时欢迎小伙伴们进入中国技术论坛，了解和获取更多Mendix widget开发的思想碰撞 [传送门](https://marketplace.siemens.com.cn/low-code-community)
 
